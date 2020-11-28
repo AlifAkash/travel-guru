@@ -1,0 +1,78 @@
+.Login{
+    background-color: white;
+    color: black;
+}
+
+.form{
+    height: auto;
+    width: 50vh;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.formInput{
+    border-bottom: 0.5px solid black;
+    width: 40vh;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+}
+
+.formBtn{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    background-color: goldenrod;
+    width: 40vh;
+    margin-left: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.horizontal{
+    margin: 5px;
+}
+
+.horizontal p {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+.horizontal span { 
+    background:#fff; 
+    padding:0 10px; 
+ }
+
+ .iconBtnSce{
+    align-items: center;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .btn img {
+    height: 20px;
+    width: auto;
+    text-align: left;
+ }
+
+ .btn{
+    margin: 5px;
+    border-radius: 25px;
+    padding: 5px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+ }

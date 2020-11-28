@@ -1,0 +1,16 @@
+.placeDetails{
+    width: 99.70%;
+}
+
+.timePicker{
+    margin: 30px;
+    background-color: white;
+    padding: 5vh;
+    border-radius: 10px;
+}
+
+.details{
+    min-height: 60vh;
+    padding-top: 5vh;
+    margin: 10px;
+}

@@ -1,0 +1,62 @@
+.Header{
+    min-height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: inherit;
+}
+
+.mainLoginInput{
+    height: 30px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin: 5px 5px;
+    background-color: gray;
+    outline: none;
+    color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 2px 3px solid white;
+    opacity: 0.75;
+    border: 2px solid whitesmoke;
+  }
+
+  .mainLoginInput::-webkit-input-placeholder { 
+    font-family: FontAwesome;
+    font-weight: normal;
+    overflow: visible;
+    vertical-align: top;
+    display: inline-block !important;
+    padding-left: 20px;
+    padding-top: 2px;
+    color: white;
+    opacity: none;
+    align-items: center;
+}
+
+.Header img{
+    height: 40px;
+    width: auto;
+    color: whitesmoke;
+    filter: invert(150%) brightness(150%);
+}
+
+.link{
+    font-size: 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.loginButton{
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: goldenrod;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.loginButton:hover{
+    opacity: 0.80;
+    box-shadow: 2px gold;
+}

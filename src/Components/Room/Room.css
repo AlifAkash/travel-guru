@@ -1,0 +1,30 @@
+.Room{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    border: 1px solid goldenrod;
+    background-color: white;
+}
+
+.Img img {
+  height: 150px;
+  width: auto;
+}
+
+.Img {
+    margin: 5px;
+    padding: 5px;
+}
+
+.des img {
+    height: 10px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.small{
+    display: inline;
+    justify-content: space-between;
+}

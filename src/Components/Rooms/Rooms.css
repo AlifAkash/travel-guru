@@ -1,0 +1,16 @@
+.Rooms{
+    display: flex;
+    color: black;
+    background-color: white;
+}
+
+.rooms{
+    width: 50%;
+}
+
+.map{
+    text-align: center;
+    width: 50%;
+    margin: 5px;
+    padding-top: 20px;
+}
